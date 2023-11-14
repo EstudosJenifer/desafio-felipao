@@ -7,6 +7,11 @@
 // 1) git add .
 // 2) git commit -m "adicionei o texto"
 // 3) git push -u origin main
+// se modifiquei, exclui ou estou em outra máquina e não tenho mais o projeto local
+// para se recuperar o projeto que ta no git ir no perfil, repositório desejado
+// clicar em Code e copiar ou clonar o endereço do repositório, criar a pasta projeto ou selecionar a pasta
+// abrir o terminal e executar o comando git clone _______(url)
+
 
 let nome = "Jenifer"
 console.log(nome)
